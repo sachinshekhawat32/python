@@ -1,0 +1,10 @@
+PYTHON DATA STRUCTURES,,,,,
+data structures,           definaton,CONSTRUCTURE,REMARK, TYPE,   EXAMPLE
+             LIST," list  are contaners to store a 
+values of any data type",        [   ], list,its mutable,"list=[2,3,54,'sachin']"
+             TUPLE,"A tuple is an immutable data
+type in pyhton",         (  ),tuple,its immutable,"tuple=(45,77,'ram')"
+             DICTIONARY,"Dictionary is a collection of 
+key- values pairs",         { },dict,mutable,"dict={""key"": vlaues}"
+             SET,"set is a collection of non-
+repetitive elements",         { },set,mutable,"set={1,33,44,54,55}"
